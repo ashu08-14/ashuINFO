@@ -5,7 +5,8 @@ public class For1 {
 		for(int i=1; i<=10; i++) {
 			System.out.println("Java");
 		}
-	}
-	System.out.println("comment from team lead");
+		System.out.println("comment from team lead");
 
+	}
+	
 }
